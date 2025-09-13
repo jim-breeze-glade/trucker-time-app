@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trucker-time-app/static/css/main.f9b6d62e.css",
+    "main.js": "/trucker-time-app/static/js/main.2a811789.js",
+    "static/js/453.41defc47.chunk.js": "/trucker-time-app/static/js/453.41defc47.chunk.js",
+    "index.html": "/trucker-time-app/index.html",
+    "main.f9b6d62e.css.map": "/trucker-time-app/static/css/main.f9b6d62e.css.map",
+    "main.2a811789.js.map": "/trucker-time-app/static/js/main.2a811789.js.map",
+    "453.41defc47.chunk.js.map": "/trucker-time-app/static/js/453.41defc47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b6d62e.css",
+    "static/js/main.2a811789.js"
+  ]
+}
