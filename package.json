@@ -2,7 +2,7 @@
   "name": "trucker-time-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://USERNAME.github.io/REPOSITORY_NAME",
+  "homepage": "https://jim-breeze-glade.github.io/trucker-time-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
